@@ -7,6 +7,3 @@ setopt extendedglob
 
 # Allow [ or ] whereever you want
 unsetopt nomatch
-
-HYPHEN_INSENSITIVE=true
-ENABLE_CORRECTION=true
