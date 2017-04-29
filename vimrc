@@ -84,6 +84,15 @@ set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn ctermbg=9
 
+" Use a fancy color scheme
+syntax enable
+if (has("termguicolors"))
+  set termguicolors
+endif
+
+colorscheme OceanicNext
+let g:airline_theme = 'oceanicnext'
+
 " Numbers
 set number
 set numberwidth=5
