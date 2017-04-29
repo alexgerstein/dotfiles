@@ -82,7 +82,6 @@ endif
 " Make it obvious where 80 characters is
 set textwidth=80
 set colorcolumn=+1
-highlight ColorColumn ctermbg=9
 
 " Use a fancy color scheme
 syntax enable
