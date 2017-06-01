@@ -1,6 +1,6 @@
 [user]
-  name = Alex Gerstein
-  email = gerstein.alex@gmail.com
+	name = Alex Gerstein
+	email = gerstein.alex@gmail.com
 [credential]
   helper = osxkeychain
 [init]
