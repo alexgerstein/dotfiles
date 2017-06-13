@@ -1,0 +1,7 @@
+# Create a new note
+#
+#   note meeting-stuff.md
+
+function note() {
+  subl ~/Dropbox/notes/"$@";
+}
