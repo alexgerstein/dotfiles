@@ -3,5 +3,5 @@
 #   note meeting-stuff.md
 
 function note() {
-  open ~/Dropbox/notes/"$@";
+  $EDITOR ~/Dropbox/notes/"$@".md;
 }
