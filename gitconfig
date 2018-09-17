@@ -36,3 +36,5 @@
   path = ~/.gitconfig.local
 [diff-so-fancy]
   stripLeadingSymbols = false
+[diff]
+  colorMoved = zebra
