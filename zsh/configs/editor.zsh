@@ -1,2 +1,2 @@
-export VISUAL='subl -w'
-export EDITOR=$VISUAL
+export VISUAL='subl'
+export EDITOR='subl -w'
